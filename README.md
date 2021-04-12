@@ -1,5 +1,6 @@
 # coinbase_rpi_led_display
-Display live crypto prices using a raspberry pi, Coinbase's API, and 2 LED panels.
+Display live crypto prices using a raspberry pi, Coinbase's API, and 2 LED panels. The top panel will always show BTC & ETH prices, while the
+bottom panel will rotate through a list of altcoins.
 
 The physical display is built using a Raspberry Pi Zero WH and 2 [Adafruit 64x32 RGB LED Matrices](https://www.adafruit.com/product/2277).
 
